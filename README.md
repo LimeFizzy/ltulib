@@ -3,11 +3,30 @@
 ## Project Description
 **LTULIB** is a collection of custom C preprocessor definitions, designed to simplify and enhance code readability by providing alternative names for common C language constructs. This library is aimed at developers who prefer using more descriptive and user-friendly identifiers for data types, control flow, storage classes, and other language constructs in their C programs.
 
+## Authors
+- Edvinas Burba (VU student)
+- Leonardas Sinkevičius (VU student)
+
 ## Usage
 To utilize the LTULIB in your C program, include the **`ltulib.h`** header file at the beginning of your source code. By doing so, you can take advantage of the defined replacements to write more expressive and intuitive code.
 ```c
 #include "ltulib.h"
 ```
+
+# How to Download LTULIB
+You can download the LTULIB header file from the official LTULIB repository or website. Follow these steps to get the library:
+1. **Visit the Official LTULIB Repository:**
+   Go to the official LTULIB repository or website where the header file is hosted. This could be a version control system like GitHub or a dedicated website.
+2. **Find the Header File:**
+   Look for the `ltulib.h` header file in the repository. It is the core file that contains all the custom preprocessor definitions.
+3. **Download the Header File:**
+   Typically, you can download the header file directly from the repository by clicking on a "Download" or "Raw" button. Save the file to a location on your computer.
+4. **Include `ltulib.h` in Your Project:**
+   In your C project, include the downloaded `ltulib.h` header file as mentioned in the "Usage" section.
+5. **Compile Your Code:**
+   Ensure that you include the `ltulib.h` file during the compilation of your C program to take advantage of the custom definitions.
+
+By following these steps, you can easily download and start using LTULIB in your C projects to improve code readability and maintainability. Make sure to check the official LTULIB repository or website for any updates or additional information related to the library.
 
 ## Data Types
 LTULIB introduces user-friendly names for common data types, making it easier to understand the purpose of variables and function parameters.
