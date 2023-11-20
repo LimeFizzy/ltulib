@@ -26,24 +26,24 @@
 #define kaitaliok switch
 #define grazink return
 
-////-----------Storage classes--------------
+//------------Storage classes---------------
 #define automatiskai auto
 #define konstanta const
 #define iskelti extern
 #define registruok register
 #define statinis static
 
-////-------Function and program flow--------
+//--------Function and program flow---------
 #define atvejis case
 #define iprasta default
 #define dydis sizeof
 #define pakeist typedef
 
-////--------Structures and unions-----------
+//---------Structures and unions------------
 #define struktura struct
 #define sajunga union
 
-////---------------Other--------------------
+//----------------Other---------------------
 #define nepastovus volatile
 
 #endif
